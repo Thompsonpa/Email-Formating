@@ -1,0 +1,122 @@
+<style>
+  /* Remove space around the email design. */ 
+  html, body{
+    margin: 0 auto !important; 
+    padding: 0 !important; 
+    height: 100% !important; 
+    width: 100% !important;}
+  /* Stop Outlook resizing small text. */ 
+  *{
+    -ms-text-size-adjust: 100%;}
+  /* Stop Outlook from adding extra spacing to tables. */ 
+  table, td{
+    mso-table-lspace: 0pt !important; 
+    mso-table-rspace: 0pt !important;}
+  /* Use a better rendering method when resizing images in Outlook IE. */ 
+  img{
+    -ms-interpolation-mode:bicubic;}
+  /* Prevent Windows 10 Mail from underlining links. Styles for underlined links should be inline. */ 
+  a{
+    text-decoration: none;}
+</style>
+<body width="100%" style="margin: 0px; padding: 0px !important; mso-line-height-rule: exactly; background-color: rgb(242, 245, 247);">
+  <table width="100%" height="100%" role="presentation" cellpadding="0" cellspacing="0" border="0"> 
+    <tr> 
+      <td valign="top" align="center" style="background-color: rgb(242, 245, 247); padding:0 15px"><table width="100%" role="presentation" cellpadding="0" cellspacing="0" border="0"> 
+        <tbody> 
+          <tr>
+            <td align="center" valign="top" style="padding:30px 0"></td>
+          </tr>
+        </tbody> 
+        </table>
+        <table cellpadding="0" width="100%"  role="presentation" cellspacing="0" border="0" align="center" style="margin:0 auto;table-layout:fixed;border-collapse:collapse!important;max-width:600px">
+          <tr>
+            <td align="center" valign="top" width="100%"> <table width="100%"  role="presentation" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="border-radius:4px">
+              <tr>
+                <td height="40"></td>
+              </tr>
+              <tr style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Roboto','Oxygen','Ubuntu','Cantarell','Fira Sans','Droid Sans','Helvetica Neue',sans-serif;color:#48545d;font-size:14px;line-height:20px;margin-top:20px">
+                <td colspan="2" valign="top" align="center" style="padding-left:40px;padding-right:40px"> <table width="100%" cellpadding="0"  role="presentation" cellspacing="0" border="0" bgcolor="#ffffff">
+                  <tr> 
+                    <td align="center" valign="bottom" colspan="2" cellpadding="3"> 
+                      <img alt="Company Image / logo, Can go Here" width="80" src="" class="CToWUd"> 
+                    </td>
+                  </tr>
+                  <tr>
+                    <td height="20"></td>
+                  </tr>
+                  <tr>
+                    <td align="center">
+                      <span style="color:#48545d;font-size:22px;line-height:24px">[EmailTitle]</span> 
+                    </td>
+                  </tr>
+                  <tr>
+                    <td height="24"></td>
+                  </tr>
+                  <tr> 
+                    <td height="1" bgcolor="#DAE1E9" align="center">
+                    <i>Date Time can Go Here on when email has been sent</i></td>
+                  </tr>
+                  <tr> 
+                    <td height="20"></td>
+                  </tr>
+                  <tr> 
+                    <td align="center">
+                      [Email Description or content can go here]
+                    </td>
+                  </tr>
+                  <tr>
+                    <td height="20"></td>
+                  </tr>
+                  <tr>
+                    <td valign="top" width="48%" align="center">
+                      <span><a href="[ButtonLink]" style="display:block;padding:15px 25px;background-color:#267b83 !important;color:#ffffff;border-radius:3px;text-decoration:none" target="_blank" data-saferedirecturl="[ButtonLink]">Button Text Goes here</a></span> 
+                    </td>
+                  </tr>
+                  <tr>
+                    <td height="20"></td>
+                  </tr>
+                  <tr> 
+                    <td align="center">
+                      <hr />
+                    </td>
+                  </tr>
+                  <tr>
+                    <td height="20"></td>
+                  </tr>
+                  <tr>
+                    <td align="center"> 
+                      <p style="color:#a2a2a2;font-size:12px;line-height:17px;font-style:italic"> 
+                        Final paragragh for Email unsubscribe if needed 
+                      </p>
+                    </td>
+                  </tr>
+                  </table> 
+                </td>
+              </tr>
+              <tr>
+                <td height="40"></td>
+              </tr>
+              </table> 
+              <table width="100%"  role="presentation" cellpadding="0" cellspacing="0" border="0">
+                <tr> 
+                  <td height="10">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="center">
+                    <span style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Roboto','Oxygen','Ubuntu','Cantarell','Fira Sans','Droid Sans','Helvetica Neue',sans-serif;color:#48545d;font-size:10px">
+                      <a href="~" style="color:#48545d!important;text-decoration:none" target="_blank" data-saferedirecturl="~">Company trade Mark</a> 
+                    </span> 
+                  </td>
+                </tr>
+                <tr>
+                  <td height="50">&nbsp;</td>
+                </tr>
+              </table> 
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
